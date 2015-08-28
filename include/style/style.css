@@ -1,0 +1,58 @@
+body {
+	font-family:Arial;
+	margin:0px;
+	padding:0px;
+}
+
+#main_menu {
+	padding-top:10px;
+	background:#012C40;
+}
+#main_menu li {
+	padding-left:130px;
+	text-decoration:none;
+	list-style:none;
+	display:inline;
+}
+#main_menu  li a {	
+color:#ffffff;
+}
+
+
+#sidebar {
+	margin-top:118px;
+	background:#255EAD;
+}
+#sidebar li {
+	
+	text-decoration:none;
+	list-style:none;
+}
+#sidebar li a {
+	margin-top:118px;
+	color:#ffffff;
+}
+
+
+
+#footer {
+	color:#ffffff;
+	background:#012C40;
+}
+#footer li {
+
+	text-decoration:none;
+	list-style:none;
+	background:#012C40;
+}
+#footer li  a{
+	color:#ffffff;
+}
+.form-group {
+	margin-bottom: 0px;
+	width: 200px;
+}
+.form-actions {
+margin-bottom: 0px;
+	width: 200px;	
+}
